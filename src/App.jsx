@@ -12,6 +12,7 @@ const App = () => {
     <div>
       <h1>Header</h1>
       <p>Paragraph {value}</p>
+      <p>New paragraph</p>
       <button onClick={handlePlus}>+1</button>
       <button onClick={handleMinus}>-1</button>
     </div>
