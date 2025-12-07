@@ -1,7 +1,7 @@
-.myBtn {
-    padding: 5px 15px;
-    color: teal;
-    background: transparent;
-    border: 1px solid teal;
-    cursor: pointer;
+.myButton {
+  padding: 5px 15px;
+  color: teal;
+  background: transparent;
+  border: 1px solid teal;
+  cursor: pointer;
 }
